@@ -1,0 +1,96 @@
+<!--[discord.com/api/v6/invite/4Y23mKU?with_counts=true]:-->
+{
+    "code":"4Y23mKU",
+    "guild":{
+        "verification_level":3,
+        "features":[
+
+        ],
+        "name":"BrownTurbo Gaming",
+        "splash":null,
+        "id":"284453597704486913",
+        "icon":"57053049ce30b15a8ecc78f350dfe9fa"
+    },
+    "approximate_member_count":15,
+    "approximate_presence_count":4,
+    "inviter":{
+        "username":"[BR]John_Magdy",
+        "discriminator":"8791",
+        "id":"284447705101631489",
+        "avatar":"baae118e203fe81acbd097e3c5d181ec"
+    },
+    "channel":{
+        "type":0,
+        "id":"352358201825427456",
+        "name":"rules"
+    }
+}
+
+<!-- [discord.com/api/guilds/284453597704486913/widget.json]:-->
+{
+    "channels":[
+        {
+            "position":2,
+            "id":"336319075250864128",
+            "name":"AFK"
+        },
+        {
+            "position":1,
+            "id":"332496231097958400",
+            "name":"Staff"
+        },
+        {
+            "position":0,
+            "id":"332496190681907201",
+            "name":"\ud83c\udfa7 Music"
+        }
+    ],
+    "instant_invite":"https://discord.com/invite/uqeXwz",
+    "id":"284453597704486913",
+    "members":[
+        {
+            "username":"[BR]Moderator",
+            "status":"online",
+            "bot":true,
+            "avatar_url":"https://cdn.discordapp.com/avatars/372276696763727872/b0a36c0f6e5ed186c00a45b4cba8f71f.jpg",
+            "avatar":"b0a36c0f6e5ed186c00a45b4cba8f71f",
+            "discriminator":"3006",
+            "id":"372276696763727872"
+        },
+        {
+            "username":"DLM",
+            "status":"online",
+            "bot":true,
+            "game":{
+                "name":"discordlist.me | 28733 servers"
+            },
+            "avatar_url":"https://cdn.discordapp.com/avatars/212681528730189824/8f501c0ea80824ce709f7adebfe11a94.jpg",
+            "avatar":"8f501c0ea80824ce709f7adebfe11a94",
+            "discriminator":"4306",
+            "id":"212681528730189824"
+        },
+        {
+            "username":"M\u00c2\u0158\u00d8",
+            "status":"online",
+            "nick":"[BR]Maro",
+            "avatar_url":"https://cdn.discordapp.com/avatars/318161235969441796/fdc0a14859197f3340f44b2a3f6eda20.jpg",
+            "avatar":"fdc0a14859197f3340f44b2a3f6eda20",
+            "discriminator":"2168",
+            "id":"318161235969441796"
+        },
+        {
+            "username":"Snowball",
+            "status":"online",
+            "bot":true,
+            "nick":"[BR]DJ",
+            "game":{
+                "name":"!help | !invite"
+            },
+            "avatar_url":"https://cdn.discordapp.com/avatars/272141618474385409/27155534e94a6837975b372e58ed4a8b.jpg",
+            "avatar":"27155534e94a6837975b372e58ed4a8b",
+            "discriminator":"4032",
+            "id":"272141618474385409"
+        }
+    ],
+    "name":"BrownTurbo Gaming"
+}
